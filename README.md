@@ -1,3 +1,4 @@
+[![Build Status](https://arunestates.visualstudio.com/MyAccount2-GitFlow/_apis/build/status/TimSmithArun.pipelines-java?branchName=master)](https://arunestates.visualstudio.com/MyAccount2-GitFlow/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
